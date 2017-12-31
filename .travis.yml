@@ -3,7 +3,3 @@ node_js:
   - '8'
 script:
   - npm test
-deploy:
-  provider: npm
-  email: me@mrdio.com
-  skip_cleanup: true
